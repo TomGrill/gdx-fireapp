@@ -18,17 +18,17 @@ You did it? Now you need to add GDX Fireapp gradle dependencies, as follow:
 **Core**
 
 ```
-compile "pl.mk5.gdx-fireapp:gdx-fireapp-core-1.0.1"
+compile "pl.mk5.gdx-fireapp:gdx-fireapp-core:1.0.1"
 ```
 **Android**
 
 ```
-compile "pl.mk5.gdx-fireapp:gdx-fireapp-android-1.0.1"
+compile "pl.mk5.gdx-fireapp:gdx-fireapp-android:1.0.1"
 ```
 **iOS**
 
 ```
-compile "pl.mk5.gdx-fireapp:gdx-fireapp-ios-moe-1.0.1"
+compile "pl.mk5.gdx-fireapp:gdx-fireapp-ios-moe:1.0.1"
 ```
 
 Last step is:
